@@ -1,4 +1,4 @@
-# Inhouse Competition - Vignan Univeristy
+# National level hackathon - Vignan Univeristy
 ## Topic-College Realted
 
 ## Batch - 83 
