@@ -17,8 +17,6 @@ The Placement Management System is a web application for the training and  place
 - HTML
 - CSS
 - Javascript
-- Reat
-- Bootstrap
 - PHP
 - Mysql
 
