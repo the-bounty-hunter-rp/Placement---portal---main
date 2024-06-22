@@ -27,5 +27,6 @@ The Placement Management System is a web application for the training and  place
 
 - Rahul kumar(https://github.com/rahul-754)
 - M Sreshta(https://github.com/Sreshta-19)
+- Rahul(https://github.com/rahulchanta)
 
 
